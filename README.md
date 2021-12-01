@@ -1,5 +1,5 @@
 # Pac-Man using Reinforcement Learning
-A RL agent capable of playing Pac-Man 
+An RL agent capable of playing Pac-Man 
 
 The Deep Q Network proposed in [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) has been implemented
 
